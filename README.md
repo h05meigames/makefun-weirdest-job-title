@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/h05meigames/makefun-weirdest-job-title/rank.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
 [![reward](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/h05meigames/makefun-weirdest-job-title/reward.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
 
-A single weird job title, submitted to make.fun's "Weirdest Job Title: Blind Judge Showdown" — a real-sounding senior role with one hilariously specific twist: chaperoning penguins on Antarctic cruise ships. The program writes exactly that one title (51 characters, nothing else) to `/output/entry.txt`, deterministically.
+A single weird job title, submitted to make.fun's "Weirdest Job Title: Blind Judge Showdown" — a real-sounding role with one hilariously specific twist: a professional mourner (a genuinely real profession) whose clients are complete strangers holding funerals for their goldfish. The program writes exactly that one title (53 characters, nothing else) to `/output/entry.txt`, deterministically.
 
 ## Run it
 
@@ -15,7 +15,7 @@ cat /output/entry.txt
 
 ## Entry
 
-`Senior Penguin Chaperone for Antarctic Cruise Ships`
+`Professional Mourner for Strangers' Goldfish Funerals`
 
 ---
 
